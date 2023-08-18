@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.19.1",
+    "react-stripe-checkout": "^2.6.3"
+  }
+}

@@ -1,0 +1,40 @@
+.sign{
+    text-align: center;
+}
+.fln{
+    font-size: 20px ;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 600;
+    margin-right: 1360px;  
+}
+.seml{
+    font-size: 20px ;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    margin-right: 1410px;  
+}
+.spsd{
+    font-size: 20px ;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    margin-right: 1370px;
+}
+.snot{
+    margin-top: 30px;
+    margin-left: 37px;
+    font-weight: 700;
+    font-size: 17px;
+}
+.sn-bt{
+    margin-right: 195px;
+    margin-top: 20px;
+    height: 50px;
+    width: 80px;
+    background-color: rgb(158, 198, 98);
+}
+.sn-bt:hover {
+    box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, 0.1);
+  }
